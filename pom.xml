@@ -6,7 +6,7 @@
 	<groupId>com.personiv</groupId>
 	<artifactId>personiv-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>personiv-server</name>
 	<description>Personiv Server</description>
